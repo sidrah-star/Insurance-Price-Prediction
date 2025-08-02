@@ -40,9 +40,6 @@ After training the model, we achieved an R-squared value of 0.88 (88% accuracy) 
 ## Contributions
 Contributions to this project are welcome! To contribute, please follow the standard GitHub workflow for pull requests.
 
-## Contact information
-If you have any questions or comments about this project, feel free to contact the project maintainer at prajwalgbdr03@gmail.com.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
