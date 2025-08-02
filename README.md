@@ -1,4 +1,4 @@
-# Internship - Ineuron
+# Internship - Upflairs Pvt Ltd
 ## Insurance Premium Prediction
 The goal of this project is to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks while keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an
 insurance policy rather than the ineffective part.
@@ -8,7 +8,7 @@ https://
 
 ![](https://github.com/praj2408/Insurance-Premium-Prediction-cicd/blob/main/static/img/Insurance%20Premium%20Prediction.gif)
 ### Dataset
-[Dataset](https://www.kaggle.com/noordeen/insurance-premium-prediction) is provided by Ineuron
+[Dataset](https://www.kaggle.com/noordeen/insurance-premium-prediction) is provided by Upflairs Pvt Ltd
 
 ## Installation
 To run the code, first clone this repository and navigate to the project directory:
